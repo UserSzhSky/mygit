@@ -1,0 +1,7 @@
+<<<<<<< fa890c932942d6bd2dd3dcd7b3359b727bf22b21
+lucky
+=======
+lucky day
+>>>>>>> initfile
+ccccccc
+科技文件
