@@ -1,0 +1,17 @@
+#配置git仓库地址
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          #配置git仓库地址
+#          uri: https://github.com/forezp/SpringcloudConfig/
+          uri: https://github.com/UserSzhSky/mygit/
+          #访问git仓库的用户名
+          username: UserSzhSky
+          #访问git仓库的密码
+          password: szh114565
+          #配置仓库路径
+          search-paths: config
+#配置仓库的分支
+      label: master
